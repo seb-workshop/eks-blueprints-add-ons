@@ -162,10 +162,6 @@ yunikorn:
 # Argo Rollout Values
 argoRollouts:
   enable: false
-  dashboard:
-    enable: true
-    service:
-      type: LoadBalancer
 
 # Argo Rollout Values
 argoWorkflows:

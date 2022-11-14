@@ -1,0 +1,5 @@
+argoRollouts:
+  dashboard:
+    enable: true
+    service:
+      type: LoadBalancer
